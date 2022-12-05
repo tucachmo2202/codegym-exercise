@@ -1,0 +1,61 @@
+Hello, rất vui được gặp lại mọi người
+Hôm trước chúng ta có buổi khai giảng và định hướng của khóa học đã trao đổi các thông tin về quy định trong lớp học. Nội dung khóa học, hình thức học tập. 
+Nhắc lại buổi trước 1 chút về nội quy:
+<Hỏi 1 bạn về nội quy lớp học>
+Nội quy số 1:
+Vào lớp đúng giờ: Vì yêu cầu vào lớp đúng giờ cho nên là em xin phép điểm danh luôn ạ.
+
+Mình cũng xin được phép nhắc lại và bổ sung 1 chút thông tin để các bạn buổi trước dù không tham gia cũng nắm được: Mọi người nên ghi lại 1 số thông tin về hình thức học, hình thức đánh giá mà mình sẽ nêu sau đây. 
+2. Nêu mục tiêu của khóa học:
+...
+3. 
+
+Sẽ có các hình thức đánh giá để học viên nhận được chứng chỉ sau khóa học:
+- Đi học đủ thời lượng (nghỉ học k quá 20% số buổi học kể cả có phép và không phép)
+- Hoàn thành 75% khóa học trên trang learn: bao gồm các bài học và các câu quiz trên trang learn
+- Theo dõi và đánh giá của giáo viên: Đạt. Mình đánh giá qua việc dõi trong quá trình học, theo dõi phản tư của các bạn sau các buổi học.
+- Bài thi trắc nghiệm đạt >= 75/100
+- Project cuối khóa đạt yêu cầu
+
+6.
+Khóa học Python cơ bản này phục vụ cho module học sau nên trong buổi học về nhập môn lập trình python mình sẽ đi qua 1 số nội dung như sau:
+
+7.
+
+9.
+Data Science là thu thập, khai thác và phân tích các giá trị từ khối dữ liệu data khổng lồ theo cấu trúc. Data Science = Advanced Mathematics (Statistics, Linear Algebra, Calculus) + Programming (Python, Database, Data Structure and Algorithm) + Kiến thức về lĩnh vực kinh tế xã hội cụ thể.
+
+Data Science giúp phân tích, đưa ra các xu hướng, mô hình phát triển và dự báo cho tương lai. Căn cứ vào đó, các ngành hàng, dịch vụ có thể đưa ra đánh giá, quyết định cho việc đầu tư, thu hồi hoặc phát triển các giá trị hữu ích.
+
+*** Sự khác nhau giữa Data Analyst và Data Scientist
+- Data analyst, hay còn gọi là chuyên viên phân tích dữ liệu, thường đóng vai trò xác định các xu hướng thông qua dữ liệu để giúp nhà lãnh đạo doanh nghiệp đưa ra các quyết định chiến lược. 
+Công việc của họ tập trung vào việc thực hiện các phân tích thống kê để giúp trả lời các câu hỏi và giải quyết vấn đề kinh doanh. Họ cũng tham gia vào việc làm sạch dữ liệu hoặc thiết lập lại nó ở định dạng có thể sử dụng được cho quá trình phân tích.
+
+- Data scientist, thường gọi là nhà khoa học dữ liệu, sẽ tham gia nhiều hơn vào việc thiết kế các quy trình mô hình hóa dữ liệu, tạo ra các thuật toán và mô hình dự đoán.
+Một nhà khoa học dữ liệu được mô tả là người không chỉ có kiến thức toán học và thống kê, mà còn sở hữu các kỹ năng của khoa học máy tính để tiếp cận vấn đề theo những cách sáng tạo.
+
+- Data analyst có thể dành nhiều thời gian hơn cho việc phân tích thông thường
+
+- Data scientist thiết kế phương pháp để lưu trữ, thao tác và phân tích dữ liệu
+
+
+10.
+Biểu đồ sau đây ta sẽ có cái nhìn tổng qua hơn về khoa học dữ liệu. Nhìn chung thì data science là 1 ngành rất rộng: nó là kết hợp của: Khoa học máy tính, toán học thống kê, và kiến thức nghiệp vụ đặc trưng của từng loại dữ liệu mà ta xử lý. 
+
+12.
+Đặt câu hỏi để định hình các vấn đề doanh nghiệp gặp phải
+1. Thu thập dữ liệu liên quan để phân tích vấn đề
+2. Thăm dò dữ liệu để làm sạch và sửa lỗi dữ liệu
+3. Mô hình dữ liệu phân tích In-Depth
+4. Truyền đạt kết quả phân tích
+
+13.
+Python được lên ý tưởng từ cuối thập niên 80 của thế kỉ trước kế thừa ngôn ngữ ABC. Tên gọi Python được lấy theo tên của nhóm hài của Anh là Monty Python. 
+Dự án về ngôn ngữ Python được bắt đầu từ năm 1989, đến 1991 thì có bản release đầu tiên là Python 0.9.0. Đến năm 2000 thì có bản python 2.0 với 1 số tính năng như thêm vào kiểu dữ liệu List (đây là kiểu dữ liệu sau này rất hay sử dụng đến), trình dọn rác phát hiện theo chu kì, referenc counting, hỗ trợ kiểu mã unicode. Đến bản Python 3.0 được release vào năm 2008 có 1 rất nhiều sự khác biệt về mặt cú pháp so với bản 2.0 nhưng nhìn chung các bản 3.x về sau thì cú pháp dễ nhìn và dễ lập trình hơn. 
+
+17.
+Anaconda là một nền tảng phân phối miễn phí của ngôn ngữ lập trình Python và R cho tính toán khoa học (khoa học dữ liệu, machine learning, xử lý dữ liệu lớn, phân tích dự đoán, v.v.), nhằm mục đích đơn giản hóa việc quản lý và triển khai gói. Nó có trên cả Windows, MacOS và Linux.
+
+Anaconda chứa tất cả các gói (công cụ) phổ biến nhất mà một nhà khoa học dữ liệu cần. Các package trong Anaconda được quản lý bởi trình quản lý riêng của nền tảng này là conda. Ta thường dùng conda để tạo môi trường cô lập các dự án của mình, nhằm sử dụng các phiên bản Python khác nhau hoặc các phiên bản package khác nhau, cũng như dùng nó để cài đặt, gỡ cài đặt và cập nhật các package riêng trong từng dự án.
+
+
