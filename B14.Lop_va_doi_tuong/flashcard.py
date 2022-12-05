@@ -31,3 +31,4 @@ class Flashcard:
         
 flashcard = Flashcard()
 flashcard.quiz()
+print("Hello world")
